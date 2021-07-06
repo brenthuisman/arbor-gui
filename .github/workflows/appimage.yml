@@ -10,6 +10,8 @@ jobs:
   build-appimage:
 
     runs-on: ubuntu-latest
+    container:
+      image: appimagecrafters/appimage-builder
 
     steps:
       - uses: actions/checkout@v2
