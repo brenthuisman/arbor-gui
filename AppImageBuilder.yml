@@ -4,7 +4,7 @@ AppDir:
   app_info:
     id: arbor-gui
     name: Arbor GUI
-    icon: /share/icons/hicolor/scalable/apps/arbor.svg
+    icon: etc/arbor-gui/arbor.png
     version: latest
     exec: usr/bin/arbor-gui
     exec_args: $@
