@@ -18,7 +18,6 @@ AppDir:
     - sourceline: deb http://archive.ubuntu.com/ubuntu/ bionic-security main restricted universe multiverse
     include:
     - libxml2
-    - libxinerama
     - libglu1-mesa
     - freeglut3
     - libsm6
