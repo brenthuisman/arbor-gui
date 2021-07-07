@@ -4,9 +4,9 @@ AppDir:
   app_info:
     id: arbor-gui
     name: Arbor GUI
-    icon: share/icons/hicolor/scalable/apps/arbor.svg
+    icon: /share/icons/hicolor/scalable/apps/arbor.svg
     version: latest
-    exec: usr/bin/arbor-gui
+    exec: /usr/bin/arbor-gui
     exec_args: $@
   apt:
     arch: amd64
